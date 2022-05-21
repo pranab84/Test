@@ -247,4 +247,4 @@ else
     print(str1 +  and  + str2 + " are not anagram.")
 
 
-#new code operation
+# the new code
